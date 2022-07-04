@@ -3,15 +3,18 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "lint:stylelint": "stylelint  src/**/*.{vue,scss,css,sass,less} --fix",
+    "stylelint": "stylelint  src/**/*.{vue,scss,css,sass,less} --fix",
     "eslint": "eslint src --fix --ext .ts,.tsx,.vue,.js,.jsx",
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
     "autoprefixer": "^10.4.7",
     "eslint": "^8.11.0",
+    "husky": "^7.0.4",
     "postcss": "^8.4.14",
     "postcss-html": "^1.4.1",
     "postcss-import": "^14.1.0",
