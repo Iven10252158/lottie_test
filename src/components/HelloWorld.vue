@@ -35,6 +35,8 @@ const count = ref(0)
 
 <style scoped>
 a {
+  width: 100px;
+  height: 100px;
   color: #42b983;
 }
 
@@ -44,9 +46,9 @@ label {
 }
 
 code {
-  background-color: #eee;
   padding: 2px 4px;
-  border-radius: 4px;
   color: #304455;
+  background-color: #eee;
+  border-radius: 4px;
 }
 </style>
