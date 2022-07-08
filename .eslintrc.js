@@ -24,5 +24,9 @@ module.exports = {
     defineEmits: 'readonly',
     defineExpose: 'readonly',
     withDefaults: 'readonly'
+  },
+  rules: {
+    indent: 'off',
+    '@typescript-eslint/indent': ['error', 2]
   }
 }
