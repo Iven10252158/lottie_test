@@ -8,8 +8,9 @@ module.exports = {
   plugins: ['stylelint-order'],
   rules: {
     'at-rule-no-unknown': null,
-    'scss/at-rule-no-unknown': [true, {
-        'ignoreAtRules': [
+    'scss/at-rule-no-unknown': [
+      true, {
+        ignoreAtRules: [
           'tailwind',
           'layer',
           'apply',
