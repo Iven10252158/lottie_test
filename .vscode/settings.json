@@ -12,7 +12,6 @@
     "scss",
     "vue"
   ],
-  "vetur.validation.template": false,
   "eslint.validate": [
     "vue",
     "javascript",
