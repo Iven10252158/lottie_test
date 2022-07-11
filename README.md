@@ -65,8 +65,8 @@ Everytime you do a commit, your message should meet the following rules.
 - refactor: A code change that neither fixes a bug nor adds a feature
 - test: Adding missing tests or correcting existing tests
 - style: A coding style only changes
-- revert: remove previous commits
-- chore: other changes
+- revert: Remove previous commits
+- chore: Other changes
 
 ### Create a pull request
 - Do `git rebase master` to your branch, and solves the conflicts. 
