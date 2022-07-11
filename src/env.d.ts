@@ -6,3 +6,5 @@ declare module '*.vue' {
   const component: DefineComponent<{}, {}, any>
   export default component
 }
+
+VITE_APP_API = 'https://demo-api.o2meta.io'
