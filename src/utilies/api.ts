@@ -1,12 +1,12 @@
 import axios, { AxiosInstance } from 'axios'
 
-const api: AxiosInstance = axios.create({
-  baseURL: import.meta.env.VITE_APP_api
+const useApi: AxiosInstance = axios.create({
+  baseURL: import.meta.env.VITE_APP_API
 })
 
-console.log(api)
+console.log(useApi)
 
-api.interceptors.request.use(
+useApi.interceptors.request.use(
   request => {
     console.log(request)
     request.withCredentials = true
@@ -17,7 +17,7 @@ api.interceptors.request.use(
   }
 )
 
-api.interceptors.response.use(
+useApi.interceptors.response.use(
   response => {
     console.log(response)
     return response
@@ -27,3 +27,7 @@ api.interceptors.response.use(
     return Promise.reject(error)
   }
 )
+
+export {
+  useApi
+}
