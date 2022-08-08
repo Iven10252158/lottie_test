@@ -5,12 +5,14 @@ import AutoImport from 'unplugin-auto-import/vite'
 import Components from 'unplugin-vue-components/vite'
 import * as path from 'path'
 import vue from '@vitejs/plugin-vue'
+import removeConsole from 'vite-plugin-remove-console'
 
 // https://vitejs.dev/config/
 export default defineConfig({
   base: '/',
   plugins: [
     vue(),
+    removeConsole(),
     createSvgIconsPlugin({
       iconDirs: [path.resolve(process.cwd(), 'src/assets/icons')],
       symbolId: 'icon-[dir]-[name]'
@@ -61,18 +63,7 @@ export default defineConfig({
   build: {
     assetsDir: './static',
     chunkSizeWarningLimit: 500,
-    minify: 'terser',
     cssCodeSplit: true,
-    terserOptions: {
-      compress: {
-        drop_console: true,
-        drop_debugger: true,
-        pure_funcs: ['console.log']
-      },
-      output: {
-        comments: true
-      }
-    },
-    brotliSize: false
+    reportCompressedSize: false
   }
 })
