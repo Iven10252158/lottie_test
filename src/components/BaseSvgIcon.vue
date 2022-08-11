@@ -10,7 +10,7 @@ const iconName = computed(() => `#icon-${props.name}`)
 
 </script>
 <template>
-  <svg>
+  <svg class="inline-block">
     <use :xlink:href="iconName" />
   </svg>
 </template>
