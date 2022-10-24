@@ -55,6 +55,9 @@ export default defineConfig({
       dts: true
     })
   ],
+  server: {
+    host: '0.0.0.0'
+  },
   resolve: {
     alias: {
       '@': path.join(__dirname, 'src')

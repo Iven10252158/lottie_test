@@ -117,7 +117,7 @@ module.exports = {
     },
     aspectRatio: {
       auto: 'auto',
-      square: '1 / 1',
+      square: '4 / 3', // '1 / 1',
       video: '16 / 9'
     },
     backdropBlur: ({ theme }) => theme('blur'),

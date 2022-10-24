@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/3dviewer/static/css/main.88d1593b.chunk.css",
+    "main.js": "/3dviewer/static/js/main.423dcb86.chunk.js",
+    "runtime-main.js": "/3dviewer/static/js/runtime-main.d12b40a4.js",
+    "static/js/2.3dc5e493.chunk.js": "/3dviewer/static/js/2.3dc5e493.chunk.js",
+    "static/js/3.57d8960c.chunk.js": "/3dviewer/static/js/3.57d8960c.chunk.js",
+    "index.html": "/3dviewer/index.html",
+    "static/js/2.3dc5e493.chunk.js.LICENSE.txt": "/3dviewer/static/js/2.3dc5e493.chunk.js.LICENSE.txt",
+    "static/media/loader.54ebfe05.png": "/3dviewer/static/media/loader.54ebfe05.png",
+    "static/media/play-btn.def29526.svg": "/3dviewer/static/media/play-btn.def29526.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d12b40a4.js",
+    "static/js/2.3dc5e493.chunk.js",
+    "static/css/main.88d1593b.chunk.css",
+    "static/js/main.423dcb86.chunk.js"
+  ]
+}

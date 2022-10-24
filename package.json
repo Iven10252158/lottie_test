@@ -34,7 +34,8 @@
     "vite-plugin-svg-icons": "^2.0.1",
     "vue": "^3.2.25",
     "vue-axios": "^3.4.1",
-    "vue-router": "^4.0.16"
+    "vue-router": "^4.0.16",
+    "vue3-lottie": "^2.3.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.16.0",

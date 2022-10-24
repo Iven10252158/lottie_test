@@ -1,0 +1,599 @@
+{
+    "mediaObjects": [
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -15.160768253386456,
+                "y": 2.677305348110142,
+                "z": 4.111372340485174
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0.6928318560989847,
+                "z": 0,
+                "w": 0.7210991742988171
+            },
+            "scale": {
+                "x": 5.816806656929304,
+                "y": 5.816806656929304,
+                "z": 5.816806656929304
+            },
+            "name": "海報",
+            "fileUrl": "https://cdn-files.mochar.co/media/assets/chan01.jpg",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": false,
+            "followCamera": false,
+            "maxWidth": 1,
+            "showHotspotTag": false,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.1,
+            "showTitle": false,
+            "showLine": true,
+            "id": "0001"
+        },
+        {
+            "type": "GIF",
+            "position": {
+                "x": 0.8889170737753309,
+                "y": 1.2040322117937128,
+                "z": 18.46126785269231
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.7071067811865475,
+                "z": 0,
+                "w": 0.7071067811865476
+            },
+            "scale": {
+                "x": 7.278474871462745,
+                "y": 7.151181795649961,
+                "z": 7.151181795649961
+            },
+            "name": "動畫牆",
+            "fileUrl": "https://cdn-files.mochar.co/media/assets/design.gif",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": false,
+            "followCamera": false,
+            "showTitle": false,
+            "id": "0002"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -12.153481483372929,
+                "y": 1.1681003048206045,
+                "z": 13.224035891916746
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0.5276195915274174,
+                "z": 0,
+                "w": 0.849480762958433
+            },
+            "scale": {
+                "x": 0.36668971887504825,
+                "y": 0.4143751405369925,
+                "z": 0.4143751405369925
+            },
+            "name": "Andiamo筒鞋",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/andiamo1.png",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "showLine": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/andiamo.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/andiamo.reality",
+            "purchaseInfo": "黑色皮款,NT13000",
+            "id": "0003"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -12.536105088042287,
+                "y": 1.918684284628463,
+                "z": 12.855730267288662
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0.797484690748556,
+                "z": 0,
+                "w": 0.6033391815734165
+            },
+            "scale": {
+                "x": 0.3580478251899158,
+                "y": 0.3580478251899158,
+                "z": 0.3580478251899158
+            },
+            "name": "Louis Vuitton Bag",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/lv_new_bag.png",
+            "thumb": "https://cdn-files.mochar.co/media/design/lv_new_bag.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "showLine": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/lv_bag2.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/lv_bag2.reality",
+            "purchaseInfo": "Empreinte Marine Blue,NT67000",
+            "productId": "lvbag",
+            "id": "0004"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -4.7288716426832975,
+                "y": 0.6369183740560808,
+                "z": 14.854123275585952
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.5932539460634493,
+                "z": 0,
+                "w": 0.8050153759277806
+            },
+            "scale": {
+                "x": 0.48160029495288725,
+                "y": 0.48160029495288725,
+                "z": 0.48160029495288725
+            },
+            "name": "奢華高跟鞋",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/red_shoe.png",
+            "thumb": "https://cdn-files.mochar.co/media/design/red_shoe.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showBox": false,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "showLine": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/red_heel.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/red_heel.reality",
+            "purchaseInfo": "紅色款,NT11000",
+            "productId": "redshoe",
+            "id": "0005"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -1.5400470919136118,
+                "y": 2.2631317391655283,
+                "z": 5.917540831846065
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.262982232727371,
+                "z": 0,
+                "w": 0.9648006764455169
+            },
+            "scale": {
+                "x": 0.49893417155703695,
+                "y": 0.49893417155703695,
+                "z": 0.49893417155703695
+            },
+            "name": "黑色經典皮革包",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/black_bag3.png",
+            "thumb": "https://cdn-files.mochar.co/media/design/black_bag3.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "showLine": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/black_bag.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/black_bag.usdz",
+            "purchaseInfo": "經典黑色皮革款,NT22000",
+            "productId": "blackbag",
+            "id": "0006"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -3.7619684950517738,
+                "y": 1.1123867567252728,
+                "z": 15.460092642355756
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.6886722115563162,
+                "z": 0,
+                "w": 0.7250728136057318
+            },
+            "scale": {
+                "x": 0.4453334374739415,
+                "y": 0.4453334374739415,
+                "z": 0.4453334374739415
+            },
+            "name": "黑色皮革包",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/black_bag3.png",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "showLine": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/black_bag.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/black_bag.usdz",
+            "purchaseInfo": "經典黑色皮革款,NT22000",
+            "id": "0007"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -3.092220235053133,
+                "y": 1.167993929244508,
+                "z": 14.96381349211319
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.6480463523367735,
+                "z": 0,
+                "w": 0.7616008962855824
+            },
+            "scale": {
+                "x": 0.400011881785661,
+                "y": 0.400011881785661,
+                "z": 0.400011881785661
+            },
+            "name": "Michael Kors經典包",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/kors.png",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 1.25,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/kors.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/kors.usdz",
+            "showLine": true,
+            "id": "0008"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -1.5091104513090692,
+                "y": 0.6008121910447999,
+                "z": 5.88847150224396
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.26348937136694484,
+                "z": 0,
+                "w": 0.9646622990335284
+            },
+            "scale": {
+                "x": 0.8576197619532268,
+                "y": 0.875975838868789,
+                "z": 0.875975838868789
+            },
+            "name": "Michael Kors經典包",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/kors.png",
+            "thumb": "https://cdn-files.mochar.co/media/design/kors.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/kors.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/kors.usdz",
+            "purchaseInfo": "Classic藍色款,NT12000",
+            "showLine": true,
+            "productId": "kors",
+            "id": "0009"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -2.3999010575049584,
+                "y": 0.5702893419959818,
+                "z": 5.028232103280883
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.2133127527413564,
+                "z": 0,
+                "w": 0.9769839658448367
+            },
+            "scale": {
+                "x": 0.6773393560416869,
+                "y": 0.6773393560416869,
+                "z": 0.6773393560416869
+            },
+            "name": "旅行專用包",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/red_bag.png",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "showLine": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/red_bag.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/red_bag.reality",
+            "purchaseInfo": "紅色款,NT8000",
+            "id": "0010"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -0.022195047658355616,
+                "y": 1.2780975450419925,
+                "z": 6.477902679667921
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.3282825599615806,
+                "z": 0,
+                "w": 0.9445795682869026
+            },
+            "scale": {
+                "x": 0.5575739733288115,
+                "y": 0.5575739733288115,
+                "z": 0.5575739733288115
+            },
+            "name": "Boston英國包",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/boston.png",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "showLine": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/boston_bag.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/boston_bag.reality",
+            "purchaseInfo": "經典皮革款,NT32000",
+            "id": "0011"
+        },
+        {
+            "type": "PHOTO",
+            "position": {
+                "x": -3.562153497971874,
+                "y": 0.6432562264776502,
+                "z": 17.47213550606843
+            },
+            "rotation": {
+                "x": 0,
+                "y": -0.8494833787831392,
+                "z": 0,
+                "w": 0.5276153799608022
+            },
+            "scale": {
+                "x": 0.5609931613773914,
+                "y": 0.5609931613773914,
+                "z": 0.5609931613773914
+            },
+            "name": "Boston英國包",
+            "fileUrl": "https://cdn-files.mochar.co/media/design/boston.png",
+            "thumb": "https://cdn-files.mochar.co/media/design/boston.png",
+            "isVertical": true,
+            "followCamera": true,
+            "maxWidth": 1,
+            "showHotspotTag": true,
+            "hotspotIconIndex": 0,
+            "length": 0.5,
+            "HotspotTagWidth": 0.2,
+            "showTitle": true,
+            "showLine": true,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/boston_bag.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/boston_bag.reality",
+            "purchaseInfo": "經典皮革款,NT32000",
+            "productId": "bostonbag",
+            "id": "0012"
+        },
+        {
+            "type": "GIF",
+            "position": {
+                "x": -6.85649946920857,
+                "y": 1.2910683983095907,
+                "z": 11.654547547864958
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0.10048865911035222,
+                "z": 0,
+                "w": 0.9949382038047405
+            },
+            "scale": {
+                "x": 1.7526825239881623,
+                "y": 1.7526825239881623,
+                "z": 1.7526825239881623
+            },
+            "showTitle": true,
+            "name": "這是一個超酷的動畫，可以點擊查看",
+            "fileUrl": "https://cdn-files.mochar.co/media/xFAMgjenegSP98fANfoEdz4ydps1/8seFGnWZex.gif",
+            "thumb": "https://cdn-files.mochar.co/media/xFAMgjenegSP98fANfoEdz4ydps1/8seFGnWZex.gif",
+            "isVertical": false,
+            "followCamera": false,
+            "id": "0013"
+        },
+        {
+            "type": "TAG",
+            "position": {
+                "x": -5.9629293608908025,
+                "y": 1.2695008305327422,
+                "z": 11.118220140314275
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0.26857775077192203,
+                "z": 0,
+                "w": 0.963258008941683
+            },
+            "scale": {
+                "x": 0.7197038813265106,
+                "y": 0.7197038813265106,
+                "z": 0.7197038813265106
+            },
+            "name": "動畫牆",
+            "fileUrl": "https://cdn-files.mochar.co/media/assets/icon_yellow_small.png",
+            "thumb": "https://cdn-files.mochar.co/media/assets/icon_yellow_small.png",
+            "isVertical": false,
+            "followCamera": false,
+            "extData": {
+                "length": 0.47,
+                "label": "展示區2"
+            },
+            "iconWidth": 0.3,
+            "showTitle": false,
+            "showLine": true,
+            "id": "0014"
+        },
+        {
+            "type": "GLB",
+            "position": {
+                "x": -20.580880775255956,
+                "y": 2.046275091979868,
+                "z": 31.70001132565714
+            },
+            "rotation": {
+                "x": -4.329780281177466e-17,
+                "y": 0.7071067811865476,
+                "z": -0.7071067811865475,
+                "w": 4.329780281177467e-17
+            },
+            "scale": {
+                "x": 2.7720053135536222,
+                "y": 2.7720053135536222,
+                "z": 2.7720053135536222
+            },
+            "name": "Painting02",
+            "fileUrl": "https://cdn-files.mochar.co/arview/painting02.glb",
+            "openLink": "",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": false,
+            "followCamera": false,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/painting02.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/painting02.reality",
+            "purchaseInfo": "壓克力板水彩畫,NT12000",
+            "id": "0015"
+        },
+        {
+            "type": "GLB",
+            "position": {
+                "x": -16.26461177278764,
+                "y": 1.7101828136317465,
+                "z": 27.730811156356978
+            },
+            "rotation": {
+                "x": 0.5098941160547137,
+                "y": 0.48990610366965437,
+                "z": -0.4899061036696543,
+                "w": 0.5098941160547138
+            },
+            "scale": {
+                "x": 2.8445937234408993,
+                "y": 2.8445937234408993,
+                "z": 2.8445937234408993
+            },
+            "name": "壓克力板水彩畫1",
+            "fileUrl": "https://cdn-files.mochar.co/arview/painting01.glb",
+            "openLink": "",
+            "thumb": "https://cdn-files.mochar.co/media/assets/placeholder.png",
+            "isVertical": false,
+            "followCamera": false,
+            "glbObjectUrl": "https://cdn-files.mochar.co/arview/painting01.glb",
+            "usdzObjectUrl": "https://cdn-files.mochar.co/arview/painting01.reality",
+            "purchaseInfo": "壓克力板水彩畫,NT12000",
+            "productId": "painting01",
+            "id": "0016"
+        },
+        {
+            "type": "VIDEO",
+            "position": {
+                "x": -7.332789421945555,
+                "y": 1.6063449024675438,
+                "z": 16.908171793175786
+            },
+            "rotation": {
+                "x": 0.002971688880529907,
+                "y": 0.9554098245469419,
+                "z": 0.009620711821205264,
+                "w": -0.2951112978664701
+            },
+            "scale": {
+                "x": 1.5274657259390416,
+                "y": 1.5274657259390416,
+                "z": 1.5274657259390416
+            },
+            "id": "000022",
+            "name": "NFT_音效",
+            "title": "NFT_音效",
+            "fileUrl": "https://cdn-files.vexspace.co/media/xFAMgjenegSP98fANfoEdz4ydps1/2DlFpNeG8x.mp4",
+            "openLink": "",
+            "nftSource": "oursong",
+            "tokenId": "2DlFpNeG8x",
+            "thumbnail": "https://cdn-files.vexspace.co/media/xFAMgjenegSP98fANfoEdz4ydps1/resize/1024/2DlFpNeG8x.jpg",
+            "isVertical": false,
+            "followCamera": false,
+            "maxWidth": 1,
+            "videoType": "h5Video",
+            "autoPlay": true,
+            "autoAudio": false
+        },
+        {
+            "type": "VIDEO",
+            "position": {
+                "x": -2.71247303453295,
+                "y": 3.615171445144708,
+                "z": 14.068859578322586
+            },
+            "rotation": {
+                "x": 0.055932482491824885,
+                "y": -0.7190248414689538,
+                "z": 0.058262012561363666,
+                "w": 0.6902755773204982
+            },
+            "scale": {
+                "x": 2.1911896766591834,
+                "y": 2.1911896766591834,
+                "z": 2.1911896766591834
+            },
+            "id": "000099",
+            "name": "NFT Pod",
+            "title": "NFT Pod",
+            "fileUrl": "https://cdn-files.vexspace.co/media/xFAMgjenegSP98fANfoEdz4ydps1/uLdxfec0xI.mp4",
+            "openLink": "",
+            "thumbnail": "https://cdn-files.vexspace.co/media/xFAMgjenegSP98fANfoEdz4ydps1/resize/1024/uLdxfec0xI.jpg",
+            "isVertical": false,
+            "followCamera": false,
+            "maxWidth": 2,
+            "videoType": "h5Video",
+            "autoPlay": true,
+            "autoAudio": false
+        }
+    ],
+    "positioningObjects": []
+}
